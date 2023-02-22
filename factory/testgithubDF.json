@@ -1,0 +1,9 @@
+{
+	"name": "testgithubDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce4c08ff-058c-47af-a4fd-84f1eccd0905",
+		"tenantId": "8a38d5c9-ff2f-479e-8637-d73f6241a4f0"
+	}
+}
